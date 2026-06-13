@@ -17,7 +17,7 @@ A curated solo survival modpack for NeoForge 1.21.1. The world tells a story thr
 
 ## Installation
 
-1. Download and install the CurseForge app
+1. Download and install the CurseForge app or preferred 3rd party launcher
 2. Click the green **Code** button at the top right of this page and select **Download ZIP** — then import the downloaded zip into CurseForge
 3. Download **Voxy** for NeoForge 1.21.1 from: https://github.com/j-shelfwood/voxy-neoforge — place jar in mods folder
 4. Download **Voxy Auto LOD** from: https://modrinth.com/mod/voxy-auto-lod — place jar in mods folder
