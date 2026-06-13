@@ -1,39 +1,58 @@
 # TempusFugit
+
 A curated solo survival modpack for NeoForge 1.21.1. The world tells a story through geography, not quest text. The surface is beautiful but dangerous, caves escalate in dread the deeper you venture, and structures are rare enough that finding one feels like a genuine discovery.
-Seed: TempusFugit
-Requirements:
 
-NeoForge 1.21.1
-CurseForge App
-Minimum 8192MB RAM recommended
-High-end PC recommended
+**Seed:** TempusFugit
 
-Installation:
+---
 
-Download and install the CurseForge app, then 
-Click the green Code button at the top right of this page and select Download ZIP — then import the downloaded zip into CurseForge
-Download Voxy for NeoForge 1.21.1 from: https://github.com/j-shelfwood/voxy-neoforge - place jar in mods folder
-Download Voxy Auto LOD from: https://modrinth.com/mod/voxy-auto-lod - place jar in mods folder
+## Requirements
 
-Optional but Highly Recommended:
+- NeoForge 1.21.1
+- CurseForge App
+- Minimum 8192MB RAM recommended
+- High-end PC recommended
 
-Physics Mod Pro — Download NeoForge 1.21.1 version from: https://www.patreon.com/haubna - place jar in mods folder. Pre-configured settings are included in the config folder and will apply automatically.
-Complementary Unbound 5.8.1 shader is already included in the pack's shaderpacks folder. Pre-configured settings included in config folder.
+---
 
-First Time Setup, Important:
+## Installation
 
-Start your world in Creative mode until pre-generation is complete
-Freeze time: /gamerule doDaylightCycle false
-Freeze weather: /gamerule doWeatherCycle false
-Run Chunky: /chunky radius 256c (minimum) or /chunky radius 512c (recommended) then /chunky start (Note: pre-generation is time intensive, 256c takes 20-40 minutes, 512c takes 2-3+ hours on high-end hardware)
-When complete re-enable: /gamerule doDaylightCycle true and /gamerule doWeatherCycle true
-Run: /voxy import current
-Do a full 360 rotation to populate LOD view
-Switch to Survival: /gamemode survival
+1. Download and install the CurseForge app
+2. Click the green **Code** button at the top right of this page and select **Download ZIP** — then import the downloaded zip into CurseForge
+3. Download **Voxy** for NeoForge 1.21.1 from: https://github.com/j-shelfwood/voxy-neoforge — place jar in mods folder
+4. Download **Voxy Auto LOD** from: https://modrinth.com/mod/voxy-auto-lod — place jar in mods folder
 
-Known Issues:
+---
 
-Physics Mod Pro ocean/water/liquid/snow physics must remain OFF, this is a known incompatibility with Voxy LOD water rendering. All other Physics Mod features work correctly. Pre-configured settings handle this automatically.
+## Optional but Highly Recommended
 
-Full documentation included in the zip: TempusFugit Configuration & Setup Guide
-This is a beta release for community testing. Please report any issues.
+- **Physics Mod Pro** — Download NeoForge 1.21.1 version from: https://www.patreon.com/haubna — place jar in mods folder. Pre-configured settings are included in the config folder and will apply automatically.
+- **Complementary Unbound 5.8.1** shader is already included in the pack's shaderpacks folder. Pre-configured settings included in config folder.
+
+---
+
+## First Time Setup — Important
+
+1. Start your world in Creative mode until pre-generation is complete
+2. Freeze time: `/gamerule doDaylightCycle false`
+3. Freeze weather: `/gamerule doWeatherCycle false`
+4. Run Chunky: `/chunky radius 256c` (minimum) or `/chunky radius 512c` (recommended) then `/chunky start`
+   > **Note:** Pre-generation is time intensive — 256c takes 20-40 minutes, 512c takes 2-3+ hours on high-end hardware
+5. When complete re-enable: `/gamerule doDaylightCycle true` and `/gamerule doWeatherCycle true`
+6. Run: `/voxy import current`
+7. Do a full 360 rotation to populate LOD view
+8. Switch to Survival: `/gamemode survival`
+
+---
+
+## Known Issues
+
+- **Physics Mod Pro** ocean/water/liquid/snow physics must remain **OFF** — known incompatibility with Voxy LOD water rendering. All other Physics Mod features work correctly. Pre-configured settings handle this automatically.
+
+---
+
+## Documentation
+
+Full documentation included in the zip: **TempusFugit Configuration & Setup Guide**
+
+*This is a beta release for community testing. Please report any issues.*
