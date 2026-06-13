@@ -10,7 +10,7 @@ High-end PC recommended
 
 Installation:
 
-Download and install the CurseForge app
+Download and install the CurseForge app, then 
 Click the green Code button at the top right of this page and select Download ZIP — then import the downloaded zip into CurseForge
 Download Voxy for NeoForge 1.21.1 from: https://github.com/j-shelfwood/voxy-neoforge - place jar in mods folder
 Download Voxy Auto LOD from: https://modrinth.com/mod/voxy-auto-lod - place jar in mods folder
