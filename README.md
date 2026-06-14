@@ -87,6 +87,6 @@ There are two ways to install TempusFugit depending on your situation:
 
 ## Documentation
 
-[Download TempusFugit Configuration & Setup Guide](https://github.com/Fathom-2/TempusFugit/raw/main/TempusFugit_Configuration_Setup_Guide.pdf)
+[Download TempusFugit Configuration & Setup Guide](https://github.com/Fathom-2/TempusFugit/raw/main/TempusFugit%20configuration%20setup%20guide.pdf)
 
 *This is a beta release for community testing. Please report any issues.*
