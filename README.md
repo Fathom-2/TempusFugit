@@ -36,7 +36,7 @@ There are two ways to install TempusFugit depending on your situation:
 ---
 
 ### Option 1: GitHub Import (Private/Personal Use)
-*All mods including Voxy and Physics Mod Pro are bundled — no manual installs required.*
+*All mods including Voxy, Voxy Auto LOD and Physics Mod Pro are bundled — no manual installs required.*
 
 1. Download and install the CurseForge app
 2. Download **TempusFugit-1.0.0.zip** using the Download link above
@@ -58,7 +58,8 @@ There are two ways to install TempusFugit depending on your situation:
 
 ## Optional but Highly Recommended
 
-- **Physics Mod Pro** — bundled in GitHub import. Adds realistic physics to blocks, mobs and items. Pre-configured settings included in config folder apply automatically.
+- **Physics Mod Pro** — included in Option 1, manual install required for Option 2. Adds realistic physics to blocks, mobs and items. Pre-configured settings in the config folder apply automatically.
+- **Voxy** — included in Option 1, manual install required for Option 2. Provides stunning long distance LOD rendering far beyond your normal render distance.
 - **Complementary Unbound 5.8.1** shader is already included in the pack's shaderpacks folder. Pre-configured settings included in config folder.
 
 ---
@@ -66,14 +67,15 @@ There are two ways to install TempusFugit depending on your situation:
 ## First Time Setup — Important
 
 1. Start your world in Creative mode until pre-generation is complete
-2. Freeze time: `/gamerule doDaylightCycle false`
-3. Freeze weather: `/gamerule doWeatherCycle false`
-4. Run Chunky: `/chunky radius 256c` (recommended) or `/chunky radius 512c` (highly recommended) then `/chunky start`
+2. Go to **More > Game Rules > World Updates** and set **Update Fire to OFF**
+3. Freeze time: `/gamerule doDaylightCycle false`
+4. Freeze weather: `/gamerule doWeatherCycle false`
+5. Run Chunky: `/chunky radius 256c` (recommended) or `/chunky radius 512c` (highly recommended) then `/chunky start`
    > **Note:** Pre-generation is time intensive — allow plenty of time to complete
-5. When complete re-enable: `/gamerule doDaylightCycle true` and `/gamerule doWeatherCycle true`
-6. Run: `/voxy import current`
-7. Do a full 360 rotation to populate LOD view
-8. Switch to Survival: `/gamemode survival`
+6. When complete re-enable: `/gamerule doDaylightCycle true` and `/gamerule doWeatherCycle true`
+7. Run: `/voxy import current`
+8. Do a full 360 rotation to populate LOD view
+9. Switch to Survival: `/gamemode survival`
 
 ---
 
