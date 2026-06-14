@@ -18,25 +18,47 @@ Download **TempusFugit-1.0.0.zip** only — ignore the Source code files, they a
 
 ## Requirements
 
+- Java 21
 - NeoForge 1.21.1
 - CurseForge App
-- Minimum 8192MB RAM recommended
+- Minimum 4GB RAM, 8GB recommended
 - High-end PC recommended
+
+**Recommended Java Arguments:**
+`-XX:+UseZGC -XX:+ZGenerational -XX:+AlwaysPreTouch -XX:+UseStringDeduplication -XX:ZUncommitDelay=60`
 
 ---
 
 ## Installation
 
+There are two ways to install TempusFugit depending on your situation:
+
+---
+
+### Option 1: GitHub Import (Private/Personal Use)
+*All mods including Voxy and Physics Mod Pro are bundled — no manual installs required.*
+
 1. Download and install the CurseForge app
-2. Download **TempusFugit-1.0.0.zip** using the Download link above and import into CurseForge
-3. Download **Voxy** for NeoForge 1.21.1 from: https://github.com/j-shelfwood/voxy-neoforge — place jar in mods folder
-4. Download **Voxy Auto LOD** from: https://modrinth.com/mod/voxy-auto-lod — place jar in mods folder
+2. Download **TempusFugit-1.0.0.zip** using the Download link above
+3. Open CurseForge, go to **My Modpacks** and click **Import**
+4. Select the downloaded zip and wait for installation to complete
+5. Launch and enjoy
+
+---
+
+### Option 2: Public CurseForge Release *(coming soon)*
+*When the pack is published publicly on CurseForge, some mods must be installed manually due to licensing restrictions.*
+
+1. Install from CurseForge directly
+2. Download **Voxy** for NeoForge 1.21.1 from: https://github.com/j-shelfwood/voxy-neoforge — place jar in mods folder
+3. Download **Voxy Auto LOD** from: https://modrinth.com/mod/voxy-auto-lod — place jar in mods folder
+4. Download **Physics Mod Pro** from: https://www.patreon.com/haubna — place jar in mods folder
 
 ---
 
 ## Optional but Highly Recommended
 
-- **Physics Mod Pro** — Download NeoForge 1.21.1 version from: https://www.patreon.com/haubna — place jar in mods folder. Pre-configured settings are included in the config folder and will apply automatically.
+- **Physics Mod Pro** — bundled in GitHub import. Adds realistic physics to blocks, mobs and items. Pre-configured settings included in config folder apply automatically.
 - **Complementary Unbound 5.8.1** shader is already included in the pack's shaderpacks folder. Pre-configured settings included in config folder.
 
 ---
