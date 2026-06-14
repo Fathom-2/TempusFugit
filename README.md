@@ -1,3 +1,5 @@
+![TempusFugit](TempusFugit%20Banner.png)
+
 # TempusFugit
 
 A curated solo survival modpack for NeoForge 1.21.1. The world tells a story through geography, not quest text. The surface is beautiful but dangerous, caves escalate in dread the deeper you venture, and structures are rare enough that finding one feels like a genuine discovery.
