@@ -8,7 +8,9 @@ A curated solo survival modpack for NeoForge 1.21.1. The world tells a story thr
 
 ## Download
 
-[Download TempusFugit v1.0.0 Beta](https://github.com/Fathom-2/TempusFugit/releases/latest/download/TempusFugit-1.0.0.zip)
+[Download TempusFugit v1.0.0 Beta](https://github.com/Fathom-2/TempusFugit/releases/tag/v1.0.0)
+
+Download **TempusFugit-1.0.0.zip** only — ignore the Source code files, they are not needed.
 
 ---
 
