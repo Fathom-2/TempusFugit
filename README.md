@@ -63,7 +63,7 @@ There are two ways to install TempusFugit depending on your situation:
 
 ## First Time Setup — Important
 
-1. Start your world in Creative mode until pre-generation is complete
+1. Select Creative mode in world creation screen, safe until pre-generation is complete
 2. Go to **More > Game Rules > World Updates** and set **Update Fire to OFF**
 3. Freeze time: `/gamerule doDaylightCycle false`
 4. Freeze weather: `/gamerule doWeatherCycle false`
