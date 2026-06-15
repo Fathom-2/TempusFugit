@@ -24,9 +24,6 @@ Download **TempusFugit-1.0.0.zip** only — ignore the Source code files, they a
 - Minimum 4GB RAM, 8GB recommended
 - High-end PC recommended
 
-**Recommended Java Arguments:**
-`-XX:+UseZGC -XX:+ZGenerational -XX:+AlwaysPreTouch -XX:+UseStringDeduplication -XX:ZUncommitDelay=60`
-
 ---
 
 ## Installation
