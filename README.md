@@ -38,7 +38,7 @@ Seed used for the screenshot above (minus the AI dragon, of course).
 
 ## Installation
 
-Install directly through the CurseForge App. All mods, configs, scripts, datapacks, and shaders install automatically — no manual steps required.
+Install directly through the CurseForge App. All mods, configs, scripts, datapacks, and shaders install automatically, no manual steps required.
 
 ---
 
