@@ -28,6 +28,14 @@ Installing directly through the CurseForge App is the recommended method. All mo
 
 ---
 
+## Credits
+
+[View Mod Credits](https://github.com/Fathom-2/TempusFugit/blob/main/CREDITS.md)
+
+TempusFugit would not exist without the incredible work of the Minecraft modding community. Please take a moment to check out the mod authors who made this pack possible.
+
+---
+
 ## Requirements
 
 - Java 21
