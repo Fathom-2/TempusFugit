@@ -13,6 +13,7 @@ Early game progression is extended through minor ore ages, but without becoming 
 When you're ready to push into the endgame, definitely defeat the dragon in the expanded End. However, you may have encountered a young Fire Dragon during your journey; the elder dragons seek solitude deep within the world's vast cave systems, and this is where the new endgame begins: when you take to the skies on the back of your own dragon and ride off into the sunset.
 
 Whether solo or with a small group of friends, I hope you enjoy exploring this world as much as I enjoyed creating it. You might call this pack Vanilla++, I just call it Minecraft my way.
+
 Seed used for the screenshot above (minus the AI dragon, of course).
 
 **Seed:** TempusFugit
@@ -21,9 +22,7 @@ Seed used for the screenshot above (minus the AI dragon, of course).
 
 ## Download
 
-[Download on CurseForge](https://www.curseforge.com/minecraft/modpacks/tempusfugit/preview)
-
-Download link will update after approval on CurseForge.
+[Download on CurseForge](https://www.curseforge.com/minecraft/modpacks/tempusfugit)
 
 ---
 
@@ -39,24 +38,14 @@ Download link will update after approval on CurseForge.
 
 ## Installation
 
-There are two ways to install TempusFugit depending on your situation:
-
----
-
-### Public CurseForge Release *(coming soon)*
-*When the pack is published publicly on CurseForge, some mods must be installed manually due to licensing restrictions.*
-
-1. Install from CurseForge directly
-2. Download **Voxy** for NeoForge 1.21.1 from: https://github.com/j-shelfwood/voxy-neoforge — place jar in mods folder
-3. Download **Voxy Auto LOD** from: https://modrinth.com/mod/voxy-auto-lod — place jar in mods folder
-4. Download **Physics Mod Pro** from: https://www.patreon.com/haubna — place jar in mods folder
+Install directly through the CurseForge App. All mods, configs, scripts, datapacks, and shaders install automatically — no manual steps required.
 
 ---
 
 ## Optional but Highly Recommended
 
-- **Physics Mod Pro** — included, manual install required. Adds realistic physics to blocks, mobs and items. Pre-configured settings in the config folder apply automatically.
-- **Voxy** — included, manual install required. Provides stunning long distance LOD rendering far beyond your normal render distance.
+- **Physics Mod Pro** — included. Adds realistic physics to blocks, mobs and items. Pre-configured settings in the config folder apply automatically.
+- **Voxy** — included. Provides stunning long distance LOD rendering far beyond your normal render distance.
 - **Complementary Unbound 5.8.1** shader is already included in the pack's shaderpacks folder. Pre-configured settings included in config folder.
 
 ---
