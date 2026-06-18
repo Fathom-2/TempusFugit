@@ -21,9 +21,9 @@ Seed used for the screenshot above (minus the AI dragon, of course).
 
 ## Download
 
-[Download TempusFugit v1.0.0 Beta](https://github.com/Fathom-2/TempusFugit/releases/tag/v1.0.0)
+[Download on CurseForge](https://www.curseforge.com/minecraft/modpacks/tempusfugit/preview)
 
-Download **TempusFugit-1.0.0.zip** only — ignore the Source code files, they are not needed.
+Download link will update after approval on CurseForge.
 
 ---
 
