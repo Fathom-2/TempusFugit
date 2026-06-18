@@ -10,7 +10,7 @@ The surface world is stunning, but it is also dangerous in its own unique way. E
 
 Early game progression is extended through minor ore ages, but without becoming grindy (just enough to slow that five minute race to diamonds). A light selection of farming and cooking mods adds variety without being overwhelming. The Illagers have expanded their evil society, creating new threats across the world. Wildlife is abundant, though not every creature you encounter will be friendly (hint: some can be tamed and ridden or flown). A handful of mini bosses provide additional challenges for adventure seekers.
 
-When you're ready to push into the endgame, definitely defeat the dragon in the expanded End. However, you may have encountered a young Fire Dragon or two during your journey; or one of the elder dragons seeking solitude deep within the world's vast cave systems, and this is where the new endgame begins: when you take to the skies on the back of your own dragon and ride off into the sunset.
+When you're ready to push into the endgame, definitely defeat the dragon in the expanded End. However, you may have encountered a young Fire Dragon during your journey; the elder dragons seek solitude deep within the world's vast cave systems, and this is where the new endgame begins: when you take to the skies on the back of your own dragon and ride off into the sunset.
 
 Whether solo or with a small group of friends, I hope you enjoy exploring this world as much as I enjoyed creating it. You might call this pack Vanilla++, I just call it Minecraft my way.
 
@@ -20,9 +20,11 @@ Seed used for the screenshot above (minus the AI dragon, of course).
 
 ---
 
-## Download
+## Installation Instructions
 
-[Download on CurseForge](https://www.curseforge.com/minecraft/modpacks/tempusfugit)
+[Download or Install on CurseForge](https://www.curseforge.com/minecraft/modpacks/tempusfugit)
+
+Installing directly through the CurseForge App adds all mods, configs, scripts, datapacks, and shaders automatically, no manual steps required. Or download as a ZIP and upload to the launcher of your choice, however some manual steps may be needed for the fully intended experience.
 
 ---
 
@@ -33,20 +35,6 @@ Seed used for the screenshot above (minus the AI dragon, of course).
 - CurseForge App
 - Minimum 4GB RAM, 8GB recommended
 - High-end PC recommended
-
----
-
-## Installation
-
-Install directly through the CurseForge App. All mods, configs, scripts, datapacks, and shaders install automatically, no manual steps required.
-
----
-
-## Optional but Highly Recommended
-
-- **Physics Mod Pro** — included. Adds realistic physics to blocks, mobs and items. Pre-configured settings in the config folder apply automatically.
-- **Voxy** — included. Provides stunning long distance LOD rendering far beyond your normal render distance.
-- **Complementary Unbound 5.8.1** shader is already included in the pack's shaderpacks folder. Pre-configured settings included in config folder.
 
 ---
 
@@ -67,7 +55,7 @@ Install directly through the CurseForge App. All mods, configs, scripts, datapac
 
 ## Known Issues
 
-- **Physics Mod Pro** ocean/water/liquid/snow physics must remain **OFF** — known incompatibility with Voxy LOD water rendering. All other Physics Mod features work correctly. Pre-configured settings handle this automatically.
+- **Physics Mod Pro** ocean physics must remain **OFF** due to a known incompatibility with Voxy LOD water rendering. All other Physics Mod features work correctly, however liquid & snow physics are turned off (personal preference). Pre-configured settings handle this automatically.
 
 ---
 
