@@ -10,7 +10,7 @@ The surface world is stunning, but it is also dangerous in its own unique way. E
 
 Early game progression is extended through minor ore ages, but without becoming grindy (just enough to slow that five minute race to diamonds). A light selection of farming and cooking mods adds variety without being overwhelming. The Illagers have expanded their evil society, creating new threats across the world. Wildlife is abundant, though not every creature you encounter will be friendly (hint: some can be tamed and ridden or flown). A handful of mini bosses provide additional challenges for adventure seekers.
 
-When you're ready to push into the endgame, definitely defeat the dragon in the expanded End. However, you may have encountered a young Fire Dragon during your journey; or one of the elder dragons seeking solitude deep within the world's vast cave systems, and this is where the new endgame begins: when you take to the skies on the back of your own dragon and ride off into the sunset.
+When you're ready to push into the endgame, definitely defeat the dragon in the expanded End. However, you may have encountered a young Fire Dragon or two during your journey; or one of the elder dragons seeking solitude deep within the world's vast cave systems, and this is where the new endgame begins: when you take to the skies on the back of your own dragon and ride off into the sunset.
 
 Whether solo or with a small group of friends, I hope you enjoy exploring this world as much as I enjoyed creating it. You might call this pack Vanilla++, I just call it Minecraft my way.
 
