@@ -24,7 +24,7 @@ Seed used for the screenshot above (minus the AI dragon, of course).
 
 [Download or Install on CurseForge](https://www.curseforge.com/minecraft/modpacks/tempusfugit)
 
-Installing directly through the CurseForge App adds all mods, configs, scripts, datapacks, and shaders automatically, no manual steps required. Or download as a ZIP and upload to the launcher of your choice, however some manual steps may be needed for the fully intended experience.
+Installing directly through the CurseForge App is the recommended method. All mods, configs, scripts, datapacks, and shaders install automatically with no manual steps required. Alternatively, a ZIP download is available for other launchers, though some manual steps may be needed for the fully intended experience.
 
 ---
 
