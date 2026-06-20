@@ -61,6 +61,24 @@ TempusFugit would not exist without the incredible work of the Minecraft modding
 
 ---
 
+## Shader Support
+
+Shader packs are not distributed with the modpack and must be downloaded separately.
+
+**Recommended Shaders:**
+- 🎨 [Complementary Unbound r5.8.1](https://www.curseforge.com/minecraft/shaders/complementary-unbound)
+*Custom pre-configured settings included in shaderpack folder will apply if using CU*
+- ⚡ [Photon 1.3b](https://www.curseforge.com/minecraft/shaders/photon-shader)
+*Higher FPS alternative, Voxy compatible*
+
+**Installation:**
+1. In My Modpacks, click on **TempusFugit**, then click the **⋯** next to the orange **Play** button and select **Open Folder**
+2. Open the **shaderpacks** folder and just drop your downloaded shader zip inside; the custom settings file `ComplementaryUnbound_r5.8.1.zip.txt` will already be in this folder
+3. Launch the pack, then in-game go to **ESC > Options > Video Settings > IRIS**
+4. Select your shader, click **Apply** and wait for it to load
+
+---
+
 ## Known Issues
 
 - **Physics Mod Pro** ocean physics must remain **OFF** due to a known incompatibility with Voxy LOD water rendering. All other Physics Mod features work correctly, however liquid & snow physics are turned off (personal preference). Pre-configured settings handle this automatically.
