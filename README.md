@@ -72,7 +72,7 @@ Shader packs are not distributed with the modpack and must be downloaded separat
 *Higher FPS alternative, Voxy compatible*
 
 **Installation:**
-1. In My Modpacks, click on **TempusFugit**, then click the **⋯** next to the orange **Play** button and select **Open Folder**
+1. CurseForge: In My Modpacks, click on **TempusFugit**, then click the **⋯** next to the orange **Play** button and select **Open Folder**
 2. Open the **shaderpacks** folder and just drop your downloaded shader zip inside; the custom settings file `ComplementaryUnbound_r5.8.1.zip.txt` will already be in this folder
 3. Launch the pack, then in-game go to **ESC > Options > Video Settings > IRIS**
 4. Select your shader, click **Apply** and wait for it to load
