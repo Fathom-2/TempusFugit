@@ -48,13 +48,13 @@ TempusFugit would not exist without the incredible work of the Minecraft modding
 
 ## First Time Setup — Important
 
-1. Select Creative mode in world creation screen, safe until pre-generation is complete
-2. Go to **More > Game Rules > World Updates** and set **Update Fire to OFF**
+1. Select Creative mode in the world creation screen to stay safe until pre-generation is complete
+2. Go to **More > Game Rules > World Updates** and set **Update Fire to OFF** (recommended)
 3. Freeze time: `/gamerule doDaylightCycle false`
 4. Freeze weather: `/gamerule doWeatherCycle false`
 5. Run Chunky: `/chunky radius 256c` (recommended) or `/chunky radius 512c` (highly recommended) then `/chunky start`
    > **Note:** Pre-generation is time intensive — allow plenty of time to complete
-6. When complete re-enable: `/gamerule doDaylightCycle true` and `/gamerule doWeatherCycle true`
+6. When complete, re-enable: `/gamerule doDaylightCycle true` and `/gamerule doWeatherCycle true`
 7. Run: `/voxy import current`
 8. Do a full 360 rotation to populate LOD view
 9. Switch to Survival: `/gamemode survival`
