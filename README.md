@@ -63,19 +63,15 @@ TempusFugit would not exist without the incredible work of the Minecraft modding
 
 ## Shader Support
 
-Shader packs are not distributed with the modpack and must be downloaded separately.
+These shader packs (including custom configuration files) are included with the modpack when installed through the CurseForge App.
 
 **Recommended Shaders:**
 - 🎨 [Complementary Unbound r5.8.1](https://www.curseforge.com/minecraft/shaders/complementary-unbound)
-*Custom pre-configured settings included in shaderpack folder will apply if using CU*
+  - Custom pre-configured settings are included and will apply automatically when the shader is enabled in-game.
 - ⚡ [Photon 1.3b](https://www.curseforge.com/minecraft/shaders/photon-shader)
-*Higher FPS alternative, Voxy compatible*
+  - Higher FPS alternative, Voxy compatible.
 
-**Installation:**
-1. CurseForge: In My Modpacks, click on **TempusFugit**, then click the **⋯** next to the orange **Play** button and select **Open Folder**
-2. Open the **shaderpacks** folder and just drop your downloaded shader zip inside; the custom settings file `ComplementaryUnbound_r5.8.1.zip.txt` will already be in this folder
-3. Launch the pack, then in-game go to **ESC > Options > Video Settings > IRIS**
-4. Select your shader, click **Apply** and wait for it to load
+**Note:** If using a third-party launcher, shader packs may need to be manually installed.
 
 ---
 
