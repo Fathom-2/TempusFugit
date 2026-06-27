@@ -8,9 +8,11 @@ World generation is vast, beautiful, and full of opportunities for exploration. 
 
 The surface world is stunning, but it is also dangerous in its own unique way. Exploration is rewarding, with structures rare enough that discovering one feels like a genuine achievement. When you do find one, expect more than the standard vanilla experience.
 
-Early game progression is extended through minor ore ages, but without becoming grindy (just enough to slow that five minute race to diamonds). A light selection of farming and cooking mods adds variety without being overwhelming. The Illagers have expanded their evil society, creating new threats across the world. Wildlife is abundant, though not every creature you encounter will be friendly (hint: some can be tamed and ridden or flown). A handful of mini bosses provide additional challenges for adventure seekers.
+Early game progression has been reworked to extend the early game through minor ore ages, but without becoming grindy (just enough to slow that five minute race to diamonds). A light selection of farming and cooking mods adds variety without being overwhelming. The Illagers have expanded their evil society, creating new threats across the world. Wildlife is abundant, though not every creature you encounter will be friendly (hint: some can be tamed and ridden or flown). A handful of mini bosses provide additional challenges for adventure seekers.
 
-When you're ready to push into the endgame, definitely defeat the dragon in the expanded End. However, you may have encountered a young Fire Dragon during your journey; the elder dragons seek solitude deep within the world's vast cave systems, and this is where the new endgame begins: when you take to the skies on the back of your own dragon and ride off into the sunset.
+When you're ready to push into the endgame, venture into the reimagined End and discover vast floating landscapes, perilous journeys across the void, and an enhanced encounter with the Ender Dragon.
+
+Have you already encountered a young Fire Dragon or two on the surface during your journey? If so, you've only seen the beginning. Few adventurers ever encounter the elder dragons that seek solitude deep within the world's vast cave systems. This is where your new endgame begins: defeat them, and you might claim a reward that allows you to take to the skies on the back of your own dragon.
 
 Whether solo or with a small group of friends, I hope you enjoy exploring this world as much as I enjoyed creating it. You might call this pack Vanilla++, I just call it Minecraft my way.
 
@@ -24,7 +26,7 @@ Seed used for the screenshot above (minus the AI dragon, of course).
 
 [Install on CurseForge](https://www.curseforge.com/minecraft/modpacks/tempusfugit)
 
-Installing directly through the CurseForge App is the recommended method. All mods, configs, scripts, datapacks, and included shader packs install automatically with no manual steps required. See below for First Time Setup and Shader Support.
+Installing directly through the CurseForge App is the recommended method. All included mods, configs, scripts, datapacks, resource packs, and shader packs install automatically with no manual steps required. See below for First Time Setup and Shader Support.
 
 ---
 
@@ -42,7 +44,7 @@ TempusFugit would not exist without the incredible work of the Minecraft modding
 - NeoForge 1.21.1
 - CurseForge App
 - Minimum 4GB RAM, 8GB recommended
-- High-end PC recommended
+- Mid to High-end PC recommended
 
 ---
 
@@ -72,12 +74,6 @@ These shader packs (including custom configuration files) are included with the 
   - Higher FPS alternative, Voxy compatible.
 
 **Note:** If using a third-party launcher, shader packs may need to be manually installed.
-
----
-
-## Known Issues
-
-- **Physics Mod Pro** ocean physics must remain **OFF** due to a known incompatibility with Voxy LOD water rendering. All other Physics Mod features work correctly, however liquid & snow physics are turned off (personal preference). Pre-configured settings handle this automatically.
 
 ---
 
