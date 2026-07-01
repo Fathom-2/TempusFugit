@@ -70,8 +70,9 @@ These shader packs (including custom configuration files) are included with the 
 **Recommended Shaders:**
 - 🎨 [Complementary Unbound r5.8.1](https://www.curseforge.com/minecraft/shaders/complementary-unbound)
   - Custom pre-configured settings are included and will apply automatically when the shader is enabled in-game.
+  - **Optional:** *Euphoria Patches* is also included and will appear as a separate shader option in-game, providing enhanced visuals at a higher performance cost.
 - ⚡ [Photon 1.3b](https://www.curseforge.com/minecraft/shaders/photon-shader)
-  - Higher FPS alternative, Voxy compatible.
+  - Custom pre-configured settings are included and will apply automatically when the shader is enabled in-game.
 
 **Note:** If using a third-party launcher, shader packs may need to be manually installed.
 
