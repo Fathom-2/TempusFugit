@@ -69,10 +69,10 @@ These shader packs (including custom configuration files) are included with the 
 
 **Recommended Shaders:**
 - 🎨 [Complementary Unbound r5.8.1](https://www.curseforge.com/minecraft/shaders/complementary-unbound)
-  - Custom pre-configured settings are included and will apply automatically when enabled in-game.
   - **Optional:** *Euphoria Patches* is also included and will appear as a separate shader option in-game.
 - ⚡ [Photon 1.3b](https://www.curseforge.com/minecraft/shaders/photon-shader)
-  - Custom pre-configured settings are included and will apply automatically when enabled in-game.
+
+- Custom pre-configured settings are included for all three shader options and will apply automatically when enabled in-game.
 
 **Note:** If using a third-party launcher, shader packs may need to be manually installed.
 
@@ -82,4 +82,4 @@ These shader packs (including custom configuration files) are included with the 
 
 [Download TempusFugit Configuration & Setup Guide](https://github.com/Fathom-2/TempusFugit/raw/main/Tempusfugit%20configuration%20setup%20guide.pdf)
 
-*This is a beta release for community testing. Please report any issues.*
+*This is a beta release for community testing. Please report any issues [here](https://github.com/Fathom-2/TempusFugit/issues).*
