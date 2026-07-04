@@ -2,7 +2,7 @@
 
 # TempusFugit
 
-I originally put together this Minecraft 1.21.1 modpack (NeoForge with Fabric Connector) for solo play. I am really enjoying how it turned out, so I decided to share it.
+I originally put together this Minecraft 1.21.1 modpack (NeoForge with Fabric Connector) for solo play. I really enjoyed how it turned out, so I decided to share it.
 
 World generation is vast, beautiful, and full of opportunities for exploration. With the included view-distance enhancements, you can enjoy breathtaking landscapes stretching hundreds of chunks into the distance. The screenshot above was taken with a 512 chunk view distance while Minecraft's render distance was set to just 12.
 
@@ -26,7 +26,7 @@ Seed used for the screenshot above (minus the AI dragon, of course).
 
 [Install on CurseForge](https://www.curseforge.com/minecraft/modpacks/tempusfugit)
 
-Installing directly through the CurseForge App is the recommended method. All included mods, configs, scripts, datapacks, resource packs, and shader packs install automatically with no manual steps required. See below for First Time Setup and Shader Support.
+Installing directly through the CurseForge App is the recommended method. All included mods, configs, scripts, datapacks, resource packs, shader packs, and recommended settings are installed automatically with no manual setup required.
 
 ---
 
@@ -50,16 +50,27 @@ TempusFugit would not exist without the incredible work of the Minecraft modding
 
 ## First Time Setup — Important
 
-1. Select Creative mode in the world creation screen to stay safe until pre-generation is complete
-2. Go to **More > Game Rules > World Updates** and set **Update Fire to OFF** (recommended)
-3. Freeze time: `/gamerule doDaylightCycle false`
-4. Freeze weather: `/gamerule doWeatherCycle false`
-5. Run Chunky: `/chunky radius 256c` (recommended) or `/chunky radius 512c` (highly recommended) then `/chunky start`
-   > **Note:** Pre-generation is time intensive — allow plenty of time to complete
-6. When complete, re-enable: `/gamerule doDaylightCycle true` and `/gamerule doWeatherCycle true`
-7. Run: `/voxy import current`
-8. Do a full 360 rotation to populate LOD view
-9. Switch to Survival: `/gamemode survival`
+> **Note:** TempusFugit ships with Distant Horizons preconfigured with a **256 chunk LOD Render Distance**. You only need to adjust the LOD distance if you choose a different Chunky pre-generation radius.
+
+> **Distant Horizons Settings:** Press **Esc** → **Options**, then click the **Distant Horizons** button (the small square button immediately to the left of the FOV slider).
+>
+> **Optional:** Under **Advanced Settings**, change **Show Generation Progress** from **Disabled** to **Overlay** to display Distant Horizons' real-time generation progress, similar to Chunky's progress display.
+
+ 1. Create your world in **Creative** mode to safely complete world pre-generation before beginning your Survival adventure.
+ 2. Go to **More > Game Rules > World Updates** and set **Update Fire to OFF** (recommended)
+ 3. Disable any shader pack before starting Chunky pre-generation (recommended)
+ 4. Freeze time: `/gamerule doDaylightCycle false`
+ 5. Freeze weather: `/gamerule doWeatherCycle false`
+ 6. In-Game, set **Distant Horizons → LOD Chunk Render Distance Radius** to match the Chunky radius you intend to use.
+ 7. Run Chunky: `/chunky radius 256c` (**minimum recommended**) or `/chunky radius 512c` (**recommended for high-end systems**) then `/chunky start`
+    > **Note:** World pre-generation can take a considerable amount of time depending on your selected radius and hardware. Allow it to complete before continuing.
+ 8. Distant Horizons may continue generating LOD data for a short time after Chunky completes world pre-generation.
+ 9. When complete, re-enable: `/gamerule doDaylightCycle true` and `/gamerule doWeatherCycle true`
+10. Slowly do a full 360 rotation to fully populate LOD view.
+11. Switch to Survival: `/gamemode survival`
+12. Re-enable your shaders (if desired) and set Minecraft's render distance to your preferred value. **12 chunks is recommended when using Distant Horizons.**
+
+> **Note:** Distant Horizons will continue generating terrain beyond the pre-generated area as you explore. If you later wish to expand your pre-generated world, use `/chunky center` to set Chunky's center to your current position, then repeat **Steps 3–12**.
 
 ---
 
@@ -74,12 +85,17 @@ These shader packs (including custom configuration files) are included with the 
 
 - Custom pre-configured settings are included for all three shader options and will apply automatically when enabled in-game.
 
-**Note:** If using a third-party launcher, shader packs may need to be manually installed.
+**Note:** TempusFugit is intended to be installed through the CurseForge App. Installation using third-party launchers is unsupported and may require additional manual configuration.
 
 ---
 
-## Documentation
+## Additional Documentation
 
-[Download TempusFugit Configuration & Setup Guide](https://github.com/Fathom-2/TempusFugit/raw/main/Tempusfugit%20configuration%20setup%20guide.pdf)
+[TempusFugit Configuration & Setup Guide (PDF)](https://github.com/Fathom-2/TempusFugit/raw/main/Tempusfugit%20configuration%20setup%20guide.pdf)
+
+Questions, bug reports, progression issues, balance suggestions, and feedback are always welcome.
+
+Please report them [here](https://github.com/Fathom-2/TempusFugit/issues).
+
 
 *This is a beta release for community testing. Please report any issues [here](https://github.com/Fathom-2/TempusFugit/issues).*
