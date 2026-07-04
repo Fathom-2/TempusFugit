@@ -93,6 +93,7 @@ These shader packs (including custom configuration files) are included with the 
 
 [TempusFugit Configuration & Setup Guide (PDF)](https://github.com/Fathom-2/TempusFugit/raw/main/Tempusfugit%20configuration%20setup%20guide.pdf)
 
-Questions, bug reports, progression issues, balance suggestions, and feedback are always welcome.
+Questions, progression issues, balance suggestions, and general feedback are always welcome.
 
-Please report them [here](https://github.com/Fathom-2/TempusFugit/issues).
+- 💬 **Questions, suggestions, and general feedback:** [GitHub Discussions](https://github.com/Fathom-2/TempusFugit/discussions)
+- 🐞 **Bug reports and confirmed issues:** [GitHub Issues](https://github.com/Fathom-2/TempusFugit/issues)
