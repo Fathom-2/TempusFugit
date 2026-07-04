@@ -10,8 +10,7 @@ The surface world is stunning, but it is also dangerous in its own unique way. E
 
 Early game progression has been reworked to extend the early game through minor ore ages, but without becoming grindy (just enough to slow that five minute race to diamonds). A light selection of farming and cooking mods adds variety without being overwhelming. The Illagers have expanded their evil society, creating new threats across the world. Wildlife is abundant, though not every creature you encounter will be friendly (hint: some can be tamed and ridden or flown). A handful of mini bosses provide additional challenges for adventure seekers.
 
-Enter the Nether in search of the riches found only there, where perilous terrain and new dangers stand between you and the treasures you seek.
-When you're ready to push into the endgame, venture into the reimagined End and discover vast floating landscapes, perilous journeys across the void, and an enhanced encounter with the Ender Dragon.
+Enter the Nether in search of the riches found only there, where perilous terrain and new dangers stand between you and the treasures you seek. Then enter the reimagined End, discovering vast floating landscapes, perilous journeys across the void, and an enhanced encounter with the Ender Dragon.
 
 Have you already encountered a young Fire Dragon or two on the surface during your journey? If so, you've only seen the beginning. Few adventurers ever encounter the elder dragons that seek solitude deep within the world's vast cave systems. This is where your new endgame begins: defeat them, and you might claim a reward that allows you to take to the skies on the back of your own dragon.
 
