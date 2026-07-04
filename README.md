@@ -50,7 +50,7 @@ TempusFugit would not exist without the incredible work of the Minecraft modding
 
 ## First Time Setup — Important
 
-> **Note:** TempusFugit ships with Distant Horizons preconfigured with a **256 chunk LOD Render Distance**. You only need to adjust the LOD distance if you choose a different Chunky pre-generation radius.
+> **Note:** TempusFugit ships with Distant Horizons preconfigured with a **256 chunk LOD Render Distance**. You only need to adjust this LOD distance if you choose a different Chunky pre-generation radius, but the two settings **must match**. In my opinion, **256 chunks is the minimum pre-generation radius worth using.** Although Distant Horizons will eventually generate the world on its own, using Chunky to pre-generate your world **dramatically speeds up the process**. **Taking the time to pre-generate your world is highly recommended.** Skipping this step will dramatically reduce the visual impact of Distant Horizons, and **you won't experience the modpack as the screenshots present it.**
 
 > **Distant Horizons Settings:** Press **Esc** → **Options**, then click the **Distant Horizons** button (the small square button immediately to the left of the FOV slider).
 >
