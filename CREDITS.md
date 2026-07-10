@@ -145,7 +145,7 @@ TempusFugit would not exist without the incredible work of the following mod aut
 | Realistic Bees | Serilum | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/realistic-bees) |
 | Reese's Sodium Options | FlashyReese | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) |
 | Resourceful Lib | ThatGravyBoat | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib) |
-| Right Click Harvest | jamalam360 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/right-click-harvest) |
+| Right Click Harvest | jamalam360 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rightclickharvest) |
 | ScalableLux | ishlandmc | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/scalablelux) |
 | Searchables | JaredIII08 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables) |
 | Serene Seasons | TheAdubbz | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons) |
